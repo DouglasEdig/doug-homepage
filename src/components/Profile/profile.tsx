@@ -12,13 +12,13 @@ export default function Profile() {
   return (
     <div className=" flex flex-col items-center justify-center mt-20 p-8 ">
       <div className=" rounded-lg bg-navColor flex justify-center items-center px-24 py-4 text-lg font-light">
-        Hello, I'm an indie app developer based in Brasil!
+        <span>Hello, I&apos;m an indie app developer based in Brasil!</span>
       </div>
       <div className="flex gap-24 mt-8 ">
         <div>
           <h1 className="text-2xl font-medium">Douglas Silva</h1>
           <h1 className=" font-light ">
-            Technology lover (Software Engineer - UX/UI - Girl's Father)
+            Technology lover (Software Engineer - UX/UI - Girl&apos;s Father)
           </h1>
         </div>
         <div>
