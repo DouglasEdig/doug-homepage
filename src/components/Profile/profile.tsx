@@ -10,7 +10,7 @@ import ContactMe from "../ContactMe/contactMe";
 
 export default function Profile() {
   return (
-    <div className=" flex flex-col items-center justify-center mt-20 p-8 ">
+    <div className=" flex flex-col items-center justify-center mt-20 p-8 text-black">
       <div className=" rounded-lg bg-navColor flex justify-center items-center px-24 py-4 text-lg font-light">
         <span>Hello, I&apos;m an indie app developer based in Brasil!</span>
       </div>
